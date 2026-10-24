@@ -1,0 +1,25 @@
+{
+    "name": "domain",
+    "description": "Domain-specific features for weather prediction",
+    "auc": 0.4306856193442557,
+    "std": 0.04654518647650979,
+    "new_features": [
+        "pressure_x_maxtemp",
+        "pressure_x_temparature",
+        "pressure_x_mintemp",
+        "pressure_x_humidity",
+        "maxtemp_x_temparature",
+        "maxtemp_x_mintemp",
+        "maxtemp_x_humidity",
+        "temparature_x_mintemp",
+        "temparature_x_humidity",
+        "mintemp_x_humidity",
+        "pressure_lag1",
+        "pressure_ma3",
+        "maxtemp_lag1",
+        "maxtemp_ma3",
+        "temparature_lag1",
+        "temparature_ma3"
+    ],
+    "execution_time": 7.741763114929199
+}

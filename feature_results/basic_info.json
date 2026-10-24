@@ -1,0 +1,8 @@
+{
+    "name": "basic",
+    "description": "Basic features with minimal processing",
+    "auc": 0.4222106744668612,
+    "std": 0.03886755411834205,
+    "new_features": [],
+    "execution_time": 2.5884804725646973
+}

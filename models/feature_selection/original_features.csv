@@ -1,0 +1,17 @@
+feature
+day
+pressure
+maxtemp
+temparature
+mintemp
+dewpoint
+humidity
+cloud
+sunshine
+winddirection
+windspeed
+rainfall_lag1
+rainfall_lag2
+rainfall_lead1
+rainfall_rolling_3d_mean
+rainfall_rolling_7d_mean

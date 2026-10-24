@@ -1,0 +1,53 @@
+{
+    "name": "combined",
+    "rmse": 0.32261373699433404,
+    "r2": 0.43975726004837634,
+    "mae": 0.20630832957421785,
+    "mean_abs_error": 0.20630832957421785,
+    "median_abs_error": 0.09949723219559525,
+    "max_abs_error": 0.995991935483871,
+    "feature_count": 50,
+    "top_features": [
+        {
+            "feature": "cloud_squared",
+            "importance": 0.11158408120284778
+        },
+        {
+            "feature": "cloud",
+            "importance": 0.1108609342705533
+        },
+        {
+            "feature": "cloud_sqrt",
+            "importance": 0.09685258118994132
+        },
+        {
+            "feature": "sunshine_squared",
+            "importance": 0.06335771463644803
+        },
+        {
+            "feature": "sunshine",
+            "importance": 0.05839310790585305
+        },
+        {
+            "feature": "sunshine_sqrt",
+            "importance": 0.05693245222166916
+        },
+        {
+            "feature": "humidity_squared",
+            "importance": 0.03297907747198679
+        },
+        {
+            "feature": "humidity_sqrt",
+            "importance": 0.028942750502169004
+        },
+        {
+            "feature": "humidity",
+            "importance": 0.028627174794694003
+        },
+        {
+            "feature": "windspeed",
+            "importance": 0.016353911567200997
+        }
+    ],
+    "execution_time": 7.91191029548645
+}

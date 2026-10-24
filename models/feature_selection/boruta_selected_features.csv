@@ -1,0 +1,8 @@
+feature
+dewpoint
+humidity
+cloud
+sunshine
+rainfall_lag1
+rainfall_lag2
+rainfall_rolling_3d_mean

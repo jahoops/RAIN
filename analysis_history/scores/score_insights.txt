@@ -1,0 +1,35 @@
+=== SCORE ANALYSIS INSIGHTS ===
+
+Top features correlated with higher scores:
+- unique_ratio: +0.6458
+- skew: +0.3527
+- out_of_range: +0.2771
+- mid_range: +0.2511
+- iqr: +0.2154
+- min: +0.1803
+- range: -0.1838
+- max: -0.1867
+- median: -0.2065
+- above_0.9: -0.2215
+
+Features correlated with lower scores:
+- median: -0.2065
+- above_0.9: -0.2215
+- mean: -0.2235
+- q75: -0.2791
+- std: -0.2807
+- kurtosis: -0.3784
+- below_0.1: -0.6507
+- ones: -0.6752
+- q25: -0.7008
+- zeros: +nan
+
+Optimal ranges for top features (based on highest-scoring submissions):
+- q25: 0.5963 to 0.6185 (mean: 0.6081)
+- ones: 0.0000 to 0.0000 (mean: 0.0000)
+- below_0.1: 0.0315 to 0.0726 (mean: 0.0511)
+- unique_ratio: 0.9945 to 1.0000 (mean: 0.9982)
+- kurtosis: -0.0485 to 0.0665 (mean: 0.0241)
+
+Recommendations for improving scores:
+- Increase the number of unique prediction values

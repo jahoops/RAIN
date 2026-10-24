@@ -1,0 +1,17 @@
+feature
+day
+mintemp
+sunshine
+windspeed
+cloudtest
+pressure_sqrt
+dewpoint_squared
+humidity_sqrt
+cloud_sqrt
+sunshine_squared
+sunshine_sqrt
+cloudtest_squared
+cloudtest_sqrt
+day_cos
+day_div_maxtemp
+day_x_temparature

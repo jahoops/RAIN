@@ -1,0 +1,19 @@
+name: rain-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.22.4
+  - pandas=1.4.2
+  - scikit-learn=1.1.1
+  - matplotlib=3.5.2
+  - seaborn=0.11.2
+  - xgboost=1.6.1
+  - lightgbm=3.3.2
+  - pip=22.1.2
+  - pip:
+    - optuna==2.10.0
+    - mlflow==1.26.0
+    - joblib==1.1.0
+    - tqdm==4.64.0

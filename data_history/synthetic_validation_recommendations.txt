@@ -1,0 +1,22 @@
+
+===== SYNTHETIC VALIDATION RECOMMENDATIONS =====
+Using 21 trustworthy submissions for recommendations.
+✅ Synthetic data shows positive correlation with contest scores (0.9796).
+✅ Average of 730.0 common IDs found between submissions and synthetic data.
+✅ Average AUC of 0.9664 indicates some predictive signal.
+
+Top submissions according to synthetic metrics:
+Best by correlation: Unknown Submission (correlation=0.9905) - ✅ Trustworthy
+Best by auc: submission_ensemble_quick.csv (auc=0.9839) - ⚠️ Unverified
+Best by match_quality: Unknown Submission (match_quality=0.9905) - ✅ Trustworthy
+
+⚠️ IMPORTANT: Many submissions with reported scores >0.9 were found to actually
+   score around 0.75 in the real contest. Only the benchmark submission
+   (submission_all_score_0.882270.csv, actual score ~0.85518) and submissions
+   from the 'keep' directory (estimated ~0.03 lower) should be trusted.
+
+Key recommendations:
+1. Continue refining synthetic data generation.
+2. Consider using synthetic validation as part of model selection criteria.
+3. When comparing synthetic scores to reported scores, focus on the verified
+   submission_all_score_0.882270.csv (true score ~0.85518) as the benchmark.

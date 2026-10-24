@@ -1,0 +1,14 @@
+{
+    "name": "temporal",
+    "description": "Temporal and seasonal features",
+    "auc": 0.4222540907019815,
+    "std": 0.03833952285683822,
+    "new_features": [
+        "month",
+        "season",
+        "day_of_year",
+        "day_sin",
+        "day_cos"
+    ],
+    "execution_time": 3.5651752948760986
+}

@@ -1,0 +1,12 @@
+feature
+day
+pressure
+maxtemp
+temparature
+mintemp
+dewpoint
+humidity
+cloud
+sunshine
+winddirection
+windspeed

@@ -1,0 +1,53 @@
+{
+    "name": "temporal",
+    "rmse": 0.32070896507356106,
+    "r2": 0.4463532864197802,
+    "mae": 0.2075003440480408,
+    "mean_abs_error": 0.2075003440480408,
+    "median_abs_error": 0.10192286894743893,
+    "max_abs_error": 0.9882846879593986,
+    "feature_count": 16,
+    "top_features": [
+        {
+            "feature": "cloud",
+            "importance": 0.29104403898926606
+        },
+        {
+            "feature": "sunshine",
+            "importance": 0.18968227391860007
+        },
+        {
+            "feature": "humidity",
+            "importance": 0.10482272591114317
+        },
+        {
+            "feature": "dewpoint",
+            "importance": 0.04713971878522497
+        },
+        {
+            "feature": "windspeed",
+            "importance": 0.04242457647713764
+        },
+        {
+            "feature": "maxtemp",
+            "importance": 0.042211997561654946
+        },
+        {
+            "feature": "pressure",
+            "importance": 0.040078651143112924
+        },
+        {
+            "feature": "temparature",
+            "importance": 0.0384381953575498
+        },
+        {
+            "feature": "mintemp",
+            "importance": 0.03697195602604912
+        },
+        {
+            "feature": "day_sin",
+            "importance": 0.035953323276990204
+        }
+    ],
+    "execution_time": 10.163204431533813
+}

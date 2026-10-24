@@ -1,0 +1,98 @@
+{
+    "name": "temporal",
+    "feature_count": 16,
+    "model_params": {
+        "n_estimators": 1000,
+        "max_depth": 12,
+        "min_samples_split": 3,
+        "min_samples_leaf": 2,
+        "max_features": "sqrt",
+        "bootstrap": true,
+        "n_jobs": -1,
+        "random_state": 42
+    },
+    "features": [
+        "day",
+        "pressure",
+        "maxtemp",
+        "temparature",
+        "mintemp",
+        "dewpoint",
+        "humidity",
+        "cloud",
+        "sunshine",
+        "winddirection",
+        "windspeed",
+        "month",
+        "season",
+        "day_of_year",
+        "day_sin",
+        "day_cos"
+    ],
+    "top_features": [
+        {
+            "feature": "cloud",
+            "importance": 0.29104403898926606
+        },
+        {
+            "feature": "sunshine",
+            "importance": 0.18968227391860007
+        },
+        {
+            "feature": "humidity",
+            "importance": 0.10482272591114317
+        },
+        {
+            "feature": "dewpoint",
+            "importance": 0.04713971878522497
+        },
+        {
+            "feature": "windspeed",
+            "importance": 0.04242457647713764
+        },
+        {
+            "feature": "maxtemp",
+            "importance": 0.042211997561654946
+        },
+        {
+            "feature": "pressure",
+            "importance": 0.040078651143112924
+        },
+        {
+            "feature": "temparature",
+            "importance": 0.0384381953575498
+        },
+        {
+            "feature": "mintemp",
+            "importance": 0.03697195602604912
+        },
+        {
+            "feature": "day_sin",
+            "importance": 0.035953323276990204
+        },
+        {
+            "feature": "day_cos",
+            "importance": 0.032461283470180534
+        },
+        {
+            "feature": "day",
+            "importance": 0.03195190390400712
+        },
+        {
+            "feature": "day_of_year",
+            "importance": 0.030769413721505875
+        },
+        {
+            "feature": "winddirection",
+            "importance": 0.02543174435255493
+        },
+        {
+            "feature": "month",
+            "importance": 0.00740089858775474
+        },
+        {
+            "feature": "season",
+            "importance": 0.0032172985172679693
+        }
+    ]
+}

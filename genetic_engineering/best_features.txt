@@ -1,0 +1,18 @@
+Best fitness: 1.000000
+
+Features:
+1. rainfall_rolling_7d_mean
+2. rainfall_lag1
+3. rainfall_rolling_3d_mean
+4. maxtemp
+5. rainfall_rolling_7d_mean_lag7
+6. dewpoint
+7. winddirection
+8. rainfall_lag2
+9. temparature
+10. rainfall_lag1
+11. rainfall_lead1_roll10_max
+12. rainfall_rolling_3d_mean_roll7_kurt
+13. temparature_x_winddirection
+14. rainfall_rolling_7d_mean_roll7_min
+15. sigmoid_winddirection

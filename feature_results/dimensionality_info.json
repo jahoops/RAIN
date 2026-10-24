@@ -1,0 +1,24 @@
+{
+    "name": "dimensionality",
+    "description": "Dimensionality reduction techniques",
+    "auc": 0.42406329730189424,
+    "std": 0.03766545576111813,
+    "new_features": [
+        "pca_5_0",
+        "pca_5_1",
+        "pca_5_2",
+        "pca_5_3",
+        "pca_5_4",
+        "pca_10_0",
+        "pca_10_1",
+        "pca_10_2",
+        "pca_10_3",
+        "pca_10_4",
+        "pca_10_5",
+        "pca_10_6",
+        "pca_10_7",
+        "pca_10_8",
+        "pca_10_9"
+    ],
+    "execution_time": 8.755765914916992
+}

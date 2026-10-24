@@ -1,0 +1,2 @@
+Submission_File,Scoring_Method,Synthetic_Score,Calibrated_Score,Actual_Score,Raw_Difference,Calibrated_Difference,Error_Pct,Timestamp
+submission_all_score_0.882270.csv,binary_classification_median,0.49175301427553686,0.49175301427553686,0.85518,-0.3634269857244632,-0.3634269857244632,42.497133436757544,2025-03-02 11:08:56.838152

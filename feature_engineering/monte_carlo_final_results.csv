@@ -1,0 +1,10 @@
+iteration,score,n_features,features
+5,0.8051061643835616,5,"['day', 'dewpoint', 'rainfall_lag1', 'pressure', 'rainfall_lag2']"
+38,0.8266247211427951,4,"['day', 'rainfall_lag2', 'rainfall_rolling_7d_mean', 'pressure']"
+225,0.9267312785388128,6,"['day', 'rainfall_rolling_3d_mean', 'dewpoint', 'sunshine', 'mintemp', 'rainfall_lag2']"
+471,0.8455703196347032,6,"['day', 'dewpoint', 'rainfall_lag2', 'rainfall_lead1', 'pressure', 'humidity']"
+726,0.8574404653729072,4,"['day', 'rainfall_lag2', 'sunshine', 'dewpoint']"
+811,0.879627397260274,7,"['day', 'rainfall_rolling_7d_mean', 'dewpoint', 'rainfall_lead1', 'mintemp', 'maxtemp', 'rainfall_rolling_3d_mean']"
+841,0.9931682648401826,13,"['day', 'dewpoint', 'rainfall_lag1', 'sunshine', 'temparature', 'maxtemp', 'rainfall_lead1', 'rainfall_rolling_7d_mean', 'rainfall_rolling_3d_mean', 'winddirection', 'rainfall_lag2', 'humidity', 'windspeed']"
+846,0.8757799155251141,4,"['day', 'rainfall_lead1', 'sunshine', 'cloud']"
+931,0.8823267123287671,10,"['day', 'rainfall_lag1', 'rainfall_lead1', 'cloud', 'sunshine', 'winddirection', 'humidity', 'pressure', 'temparature', 'rainfall_lag2']"
